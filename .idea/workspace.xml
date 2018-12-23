@@ -1,7 +1,368 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e083300-d51b-4e8e-ab25-34b05e06003e" name="Default Changelist" comment="" />
+    <list default="true" id="1e083300-d51b-4e8e-ab25-34b05e06003e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../diplom/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/.idea/diplom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/Core/SQL.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/add_answers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansBold/OpenSansBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansBold/OpenSansBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansBold/OpenSansBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansBoldItalic/OpenSansBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansBoldItalic/OpenSansBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansBoldItalic/OpenSansBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansExtraBold/OpenSansExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansExtraBold/OpenSansExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansExtraBold/OpenSansExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansExtraBoldItalic/OpenSansExtraBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansExtraBoldItalic/OpenSansExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansExtraBoldItalic/OpenSansExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansItalic/OpenSansItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansItalic/OpenSansItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansItalic/OpenSansItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansLight/OpenSansLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansLight/OpenSansLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansLight/OpenSansLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansLightItalic/OpenSansLightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansLightItalic/OpenSansLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansLightItalic/OpenSansLightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansRegular/OpenSansRegular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansRegular/OpenSansRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansRegular/OpenSansRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansRegularItalic/OpenSansRegularItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansRegularItalic/OpenSansRegularItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansRegularItalic/OpenSansRegularItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansSemiBold/OpenSansSemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansSemiBold/OpenSansSemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansSemiBold/OpenSansSemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansSemiBoldItalic/OpenSansSemiBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansSemiBoldItalic/OpenSansSemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/OpenSansSemiBoldItalic/OpenSansSemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/home_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/jquery-ui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/test.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/css/test_create_style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/db.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/deleted/test_create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/deleted/test_create.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/deleted/test_create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/exit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansBold/OpenSansBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansBold/OpenSansBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansBold/OpenSansBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansBoldItalic/OpenSansBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansBoldItalic/OpenSansBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansBoldItalic/OpenSansBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansExtraBold/OpenSansExtraBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansExtraBold/OpenSansExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansExtraBold/OpenSansExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansExtraBoldItalic/OpenSansExtraBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansExtraBoldItalic/OpenSansExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansExtraBoldItalic/OpenSansExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansItalic/OpenSansItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansItalic/OpenSansItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansItalic/OpenSansItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansLight/OpenSansLight.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansLight/OpenSansLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansLight/OpenSansLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansLightItalic/OpenSansLightItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansLightItalic/OpenSansLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansLightItalic/OpenSansLightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansRegular/OpenSansRegular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansRegular/OpenSansRegular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansRegular/OpenSansRegular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansRegularItalic/OpenSansRegularItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansRegularItalic/OpenSansRegularItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansRegularItalic/OpenSansRegularItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansSemiBold/OpenSansSemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansSemiBold/OpenSansSemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansSemiBold/OpenSansSemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansSemiBoldItalic/OpenSansSemiBoldItalic.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansSemiBoldItalic/OpenSansSemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/OpenSansSemiBoldItalic/OpenSansSemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/img_ex1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/img_ex1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/img_ex2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/img_ex3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/img_ex4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/img_ex5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/carousel/img_ex6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/android-chrome-256x256.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/favicon/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/img/logo_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/js/jquery-ui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/js/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/js/test_create2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/js/tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/materials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/parents.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/reg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/students.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/teachers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/auth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/main/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/main/aside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/main/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/main/scriptside.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/reg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/test_create2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/templates/tests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/test_create2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/test_create_ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/test_create_answers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/test_del.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/testing (3).sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/testing.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../diplom/tests.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/logs/access.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/logs/error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/laravel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/svg/403.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/svg/404.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/svg/500.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/svg/503.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/svg/403.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/svg/404.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/svg/500.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/svg/503.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../larevel/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +389,28 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="62" selection-start-line="60" selection-end-line="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,6 +509,7 @@
     <option name="width" value="617" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -203,12 +581,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2094000" />
+    <option name="totallyTimeSpent" value="2132000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19147758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1936912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -221,7 +599,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45581895" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.45680344" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -246,7 +624,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="62" selection-start-line="60" selection-end-line="62" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
